@@ -11,3 +11,10 @@ h1 {
 .p1 {
     text-align: center;
 }
+
+.p2 {
+    text-align: center;
+    background-color: yellow;
+    font-size: 20px;
+    color: rgb(46, 46, 46);
+}
